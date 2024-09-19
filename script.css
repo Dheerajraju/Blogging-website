@@ -1,0 +1,89 @@
+*
+{
+    margin:0px;
+    padding:0px;
+    
+}
+body
+{
+    scroll-behavior: smooth;
+}
+.container
+{
+    background-color:whitesmoke;
+    margin-right: 100px;
+    margin-left: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.navigation
+{
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+
+}
+.topnav a 
+{
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+  background-color: black;
+  border-radius: 20px;
+  color: aliceblue;
+}
+
+.thecontent
+{
+    background-color: aquamarine;
+}
+.images
+{
+    width: 225px;
+}
+.thefirsttopic
+{ 
+    display: block;
+    outline-style: solid;
+    justify-content: center;
+    justify-items: center;
+}
+.section1
+{
+    justify-content: center;
+}
+.section2
+{
+    padding:10px;
+    justify-items: center;
+}
+.thesecondtopic
+{
+    
+    display:block;
+    outline-style: solid;
+}
+.sectionsecond2{
+    padding :10px;
+    padding-left: 0%;
+}
+.thethirdtopic
+{
+    display: block;
+    outline-style: solid;
+    
+}
+.thefourthtopic
+{
+    display: block;
+    outline-style: solid;
+}
+.thefifthtopic
+{
+    display: block;
+    outline-style: solid;
+}
+.heading
+{
+    text-align: center;
+}
